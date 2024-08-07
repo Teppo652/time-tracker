@@ -1,5 +1,7 @@
 # time-tracker
 
+A coding test to a company with following requirements:
+
 Develop a simple web application similar to our personnel page. It is important that it is functional and that it imitates our app's design structure.
 
 Application requirements
@@ -18,3 +20,10 @@ Development requirements
 You can choose freely when it comes to programming libraries that facilitate development, e.g
 authentication package, time management package, Css, etc. You don't need to show Gps
 coordinates on a map as these services often cost money to use. Users can be added manually and no registration form to is needed.
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
